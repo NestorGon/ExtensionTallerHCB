@@ -1,0 +1,56 @@
+.col {
+  padding: 15pt 30pt 15pt 30pt;
+}
+#title {
+  color: rgb(159,193,228);
+  vertical-align: middle;
+  font-size: 30pt;
+}
+#intro {
+  border-style: solid;
+  border-width: 8px;
+  border-color: rgba(1, 45, 128, 0.658);
+}
+.txt {
+  margin-top: auto;
+  margin-bottom: auto;
+  text-align: center;
+}
+#colparrafo {
+  background-color: rgb(159,193,228);
+}
+#R3 {
+  background-color: rgb(159,193,228);
+}
+#R3C2 {
+  background-color: rgba(1, 45, 128, 0.658);
+  color: white;
+}
+#Aang {
+  background-color: rgb(255, 155, 61);
+  color: white;
+}
+#Katara {
+  background-color: rgb(130, 191, 226);
+  color: white;
+}
+#Sokka {
+  background-color: rgb(130, 191, 226);
+  color: white;
+}
+#Toph {
+  background-color: rgb(24, 90, 18);
+  color: white;
+}
+#Zuko {
+  background-color: rgb(133, 51, 45);
+  color: white;
+}
+#Iroh {
+  background-color: rgb(133, 51, 45);
+  color: white;
+}
+.padding-0 {
+  padding-right: 0;
+  padding-left: 0;
+}
